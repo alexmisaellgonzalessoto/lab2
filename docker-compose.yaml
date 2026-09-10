@@ -1,0 +1,5 @@
+services:
+  app1:
+    build: ./api
+    ports:
+      - "3000:3000"
