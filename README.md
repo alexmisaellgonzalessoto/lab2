@@ -38,6 +38,10 @@ MESSAGE=<Gonzales Alex>
 # Creditos
 - Walter Ivan Leturia Rodriguez
 # ETC
+Imagen 1:
+![alt text](image.png)
+Imagen 2:
+![alt text](image-1.png)
 ## Tipos de redes en Docker
 bridge: Permite crear contenedores del mismo equipo Docker para que se puedan comunicar entre si por una red virtual.
 host: El contenedor usa directamente la red del equipo del anfitrión, por lo q se pierde parte del aislamiento de red.
